@@ -1,0 +1,14 @@
+com/beast/MainApplication.java
+ com.beast.MainApplication
+ com.beast.MainApplication$1
+com/beast/ReactNativeFlipper.java
+ com.beast.ReactNativeFlipper
+ com.beast.ReactNativeFlipper$1
+ com.beast.ReactNativeFlipper$2
+ com.beast.ReactNativeFlipper$2$1
+com/beast/MainActivity.java
+ com.beast.MainActivity
+com/beast/BuildConfig.java
+ com.beast.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
